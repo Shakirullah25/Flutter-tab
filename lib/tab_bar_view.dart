@@ -30,7 +30,7 @@ class TabBarViews extends StatelessWidget {
         ),
         Center(
           child: Text(
-            "Click to download",
+            "Your Profile",
             style: TextStyle(fontSize: textSize),
           ),
         ),

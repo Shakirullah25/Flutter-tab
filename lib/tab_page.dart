@@ -35,7 +35,7 @@ class TabPage extends StatelessWidget {
         Tab(icon: Icon(Icons.home), text: "Home"),
         Tab(icon: Icon(Icons.info), text: "About"),
         Tab(icon: Icon(Icons.settings), text: "Settings"),
-        Tab(icon: Icon(Icons.get_app), text: "App Download"),
+        Tab(icon: Icon(Icons.person_2_rounded), text: "Profile"),
       ],
     );
   }
