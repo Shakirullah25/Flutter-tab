@@ -34,7 +34,7 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 
 ### Steps
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/Shakirullah25/Flutter-tab.git
 
 ## Screenshot

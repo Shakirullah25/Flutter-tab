@@ -16,21 +16,26 @@ class TabPage extends StatelessWidget {
           foregroundColor: Theme.of(context).secondaryHeaderColor,
           elevation: 0,
           centerTitle: true,
-          title: Text(
+          title: const Text(
             "TAB",
             style: TextStyle(fontWeight: FontWeight.bold),
           ),
-          bottom: tabBarContent(context),
+          bottom: PreferredSize(
+            preferredSize: const Size.fromHeight(80),
+            child:
+                Container(color: Colors.white, child: tabBarContent(context)),
+          ),
         ),
-        body: TabBarViews(),
+        body: const TabBarViews(),
       ),
     );
   }
 
   TabBar tabBarContent(BuildContext context) {
-    return TabBar(
-      labelColor: Colors.white,
-      unselectedLabelColor: Theme.of(context).secondaryHeaderColor,
+    return const TabBar(
+      labelColor: Colors.black,
+      indicatorColor: Colors.deepPurple,
+      unselectedLabelColor: Colors.black,
       tabs: [
         Tab(icon: Icon(Icons.home), text: "Home"),
         Tab(icon: Icon(Icons.info), text: "About"),
