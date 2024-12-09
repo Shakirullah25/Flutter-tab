@@ -2,7 +2,7 @@
 
 A simple Flutter app demonstrating tab-based navigation with a responsive AppBar. The app showcases the power of Flutter's `TabBar` and `TabBarView` widgets to create a seamless user experience for multi-screen navigation.
 
-Dummy contents is used for each tab's contents for now and any suggestion of the contents to be put is highly welcome 
+Dummy contents are used for each tab's contents for now and any suggestion of the contents to be put is highly welcome 
 
 ---
 
