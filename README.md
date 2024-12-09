@@ -12,6 +12,7 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 2. Installation
 3. Screenshots
 4. Contact
+5. Project URL
 
 ---
 
@@ -47,5 +48,9 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 - GitHub: https://github.com/Shakirullah25/Flutter-tab.git
 - Twitter: [@Shakirullah25](https://x.com/Shakirullah25?t=FbbTqgJYI5I706pyPFcLwA&s=08)
 - Email: omotososakiru25@gmail.com
+
+## Project URL
+
+https://github.com/Shakirullah25/Flutter-tab/tree/master
 
 
