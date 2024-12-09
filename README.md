@@ -41,6 +41,9 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 
 ### UI
 ![App UI](lib/Screenshot/Screenshot%20(146).png)
+![App UI](lib/Screenshot/Screenshot%20(147).png)
+
+
 
 ### Contact
 - GitHub: https://github.com/Shakirullah25/Flutter-tab.git
