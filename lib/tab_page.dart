@@ -33,9 +33,9 @@ class TabPage extends StatelessWidget {
 
   TabBar tabBarContent(BuildContext context) {
     return const TabBar(
-      labelColor: Colors.black,
+      labelColor: Colors.deepPurple,
       indicatorColor: Colors.deepPurple,
-      unselectedLabelColor: Colors.black,
+      unselectedLabelColor: Colors.deepPurple,
       tabs: [
         Tab(icon: Icon(Icons.home), text: "Home"),
         Tab(icon: Icon(Icons.info), text: "About"),
