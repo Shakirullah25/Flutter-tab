@@ -8,10 +8,10 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Screenshots](#screenshots)
-4. [Contact](#contact)
+1. #Features
+2. #Installation
+3. #Screenshots
+4. #Contact
 
 ---
 
