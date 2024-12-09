@@ -51,6 +51,6 @@ Dummy contents is used for each tab's contents for now and any suggestion of the
 
 ## Project URL
 
-https://github.com/Shakirullah25/Flutter-tab/tree/master
+[Flutter tab project](https://github.com/Shakirullah25/Flutter-tab/tree/master)
 
 
