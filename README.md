@@ -2,7 +2,7 @@
 
 ## Project URL
 
-[Flutter tab project](https://github.com/Shakirullah25/Flutter-tab/tree/master)
+[Flutter tab project](https://github.com/Shakirullah25/Flutter-tab)
 
 A simple Flutter app demonstrating tab-based navigation with a responsive AppBar. The app showcases the power of Flutter's `TabBar` and `TabBarView` widgets to create a seamless user experience for multi-screen navigation.
 
