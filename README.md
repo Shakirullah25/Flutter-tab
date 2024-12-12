@@ -16,7 +16,6 @@ Dummy contents are used for each tab's contents for now and any suggestion of th
 2. Installation
 3. Screenshots
 4. Contact
-5. Shakirullah
 
 ---
 
