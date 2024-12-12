@@ -16,6 +16,7 @@ Dummy contents are used for each tab's contents for now and any suggestion of th
 2. Installation
 3. Screenshots
 4. Contact
+5. Shakirullah
 
 ---
 
@@ -51,5 +52,3 @@ Dummy contents are used for each tab's contents for now and any suggestion of th
 - GitHub: https://github.com/Shakirullah25/Flutter-tab.git
 - Twitter: [@Shakirullah25](https://x.com/Shakirullah25?t=FbbTqgJYI5I706pyPFcLwA&s=08)
 - Email: omotososakiru25@gmail.com
-
-
